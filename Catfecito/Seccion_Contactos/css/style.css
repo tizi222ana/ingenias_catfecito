@@ -212,6 +212,27 @@ footer {
     margin-left: 45px; /* Márgenes laterales */
     margin-right: 45px;
   }
+
+   .frecuentes {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .frecuentes h1 {
+    font-size: 24px;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 15px;
+  }
+
+  .frecuentes h2 {
+    font-size: 20px;
+  }
+
+  .frecuentes p {
+    font-size: 16px;
+  }
+      
 }
 
 /* Para pantallas medianas (min-width: 580px) */
@@ -225,6 +246,26 @@ footer {
   a:link {
     font-size: 13px; /* Tamaño intermedio de enlaces */
   }
+
+   .frecuentes {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .frecuentes h1 {
+    font-size: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 18px;
+  }
+
+  .frecuentes h2 {
+    font-size: 22px;
+  }
+
+  .frecuentes p {
+    font-size: 18px;
+  }
 }
 
 /* Para pantallas grandes (min-width: 880px) */
@@ -237,12 +278,32 @@ footer {
   a:link {
     font-size: 20px; /* Tamaño grande de enlaces */
   }
+
+  .frecuentes h1 {
+    font-size: 40px;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding: 25px;
+  }
+
+  .frecuentes h2 {
+    font-size: 28px;
+  }
+
+  .frecuentes p {
+    font-size: 22px;
+  }
 }
+
+
+
 
 .frecuentes {
   text-align: left;
   margin-left: 40px;
-h1 {
+}
+
+.frecuentes h1 {
   font-size: 35px;
   text-align: center;
   background-color: #da8f44;
@@ -250,12 +311,27 @@ h1 {
   margin-left: 300px;
   margin-right: 300px;
   padding: 20px;
-}  
-h2 {
+}
+
+.frecuentes h2 {
   font-size: 25px;
+  text-align: left;
 }
-p {
+
+.frecuentes p {
+  text-align: left;
   font-size: 20px;
-}
-}
+}  
+
+
+
+
+
+
+
+
+
+
+
+
 
