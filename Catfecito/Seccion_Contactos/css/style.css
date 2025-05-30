@@ -238,3 +238,24 @@ footer {
     font-size: 20px; /* Tamaño grande de enlaces */
   }
 }
+
+.frecuentes {
+  text-align: left;
+  margin-left: 40px;
+h1 {
+  font-size: 35px;
+  text-align: center;
+  background-color: #da8f44;
+  border-radius: 30px;
+  margin-left: 300px;
+  margin-right: 300px;
+  padding: 20px;
+}  
+h2 {
+  font-size: 25px;
+}
+p {
+  font-size: 20px;
+}
+}
+
